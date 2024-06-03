@@ -17,31 +17,31 @@ Nedan följer tabeller över verb och substantiv relaterade till git,
 deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
 oss.
 
-| Verb        | Nuvarande bruk | Förslag       |
-|-------------|----------------|---------------|
-| pull        | pulla          | rycka         |
-| push        | pusha          | knuffa        |
-| fetch       | fetcha         | hämta         |
-| branch      | brancha        | förgrena      |
-| commit      | commita        | förbinda      |
-| rebase      | rebasa         | ympa          |
-| merge       | merga          | sammanfoga    |
-| squash      | squasha        | mosa          |
-| stash       | stasha         | gömma         |
-| tag         | tagga          | märka         |
-| cherry-pick | cherry-picka   | plocka russin |
-| amend       | amenda         | rätta till    |
-| blame       | blamea         | klandra       |
+| Verb        | Nuvarande bruk | Förslag                                      |
+|-------------|----------------|----------------------------------------------|
+| pull        | pulla          | dra in, indrag                               |
+| push        | pusha          | lägga upp                                    |
+| fetch       | fetcha         | hämta                                        |
+| branch      | brancha        | förgrena                                     |
+| commit      | commita        | sätta in, insätta                            |
+| rebase      | rebasa         | ympa                                         |
+| merge       | merga          | sammanfoga                                   |
+| squash      | squasha        | mosa                                         |
+| stash       | stasha         | gömma                                        |
+| tag         | tagga          | etikettera, sätta etikett, skapa etikett     |
+| cherry-pick | cherry-picka   | plocka russin, russinplocka                  |
+| amend       | amenda         | rätta till                                   |
+| blame       | blamea         | klandra                                      |
 
-| Substantiv   | Nuvarande bruk | Förslag     |
-|--------------|----------------|-------------|
-| git          | git            | jävel       |
-| repository   | repo           | förvaring   |
-| branch       | branch         | gren        |
-| commit       | commit         | förbindelse |
-| pull request | pull request   | ryckbegäran |
-| stash        | stash          | gömma       |
-| tag          | tagg           | märke       |
+| Substantiv   | Nuvarande bruk | Förslag           |
+|--------------|----------------|----------------   |
+| git          | git            | tölp              |
+| repository   | repo           | ett förvar        |
+| branch       | branch         | en gren           |
+| commit       | commit         | en insättning     |
+| pull request | pull request   | en indragsbegäran |
+| stash        | stash          | en gömma          |
+| tag          | tagg           | en etikett        |
 
 ## Exempel
 
